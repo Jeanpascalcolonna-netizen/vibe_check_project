@@ -1,3 +1,2 @@
-from django.test import TestCase
-
-# Create your tests here.
+# Modèle pour stocker les posts Reddit GoodBarber
+from django.db import models
